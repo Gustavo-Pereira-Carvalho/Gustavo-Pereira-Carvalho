@@ -27,7 +27,6 @@ Atualmente, estou montando meu portfólio com projetos pessoais, desafios e estu
 
 ## 📌 Projetos em destaque
 
-> ⚠️ *Esses links são apenas exemplo. Quando tiver os projetos prontos, posso atualizar aqui pra você!*
 
 - 🎯 [Portfólio Pessoal](https://gustavo-pereira-carvalho.github.io/portfolio/) – Meu site pessoal com informações e projetos
 - 📱 [Calculadora Web](https://github.com/Gustavo-Pereira-Carvalho/calculadora) – Projeto simples com HTML, CSS e JavaScript
