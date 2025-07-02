@@ -44,5 +44,5 @@ Atualmente, estou montando meu portfólio com projetos pessoais, desafios e estu
 ---
 
 <div align=\"center\">
-  Feito com ❤️ por Gustavo Pereira
+  Feito por Gustavo Pereira
 </div>
