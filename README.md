@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gustavo Pereira Carvalho
 
-<!--
-**Gustavo-Pereira-Carvalho/Gustavo-Pereira-Carvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 3º ano do Ensino Médio  
+💻 Técnico em Desenvolvimento de Sistemas (ETEC)  
+🚀 Buscando minha primeira oportunidade como desenvolvedor
 
-Here are some ideas to get you started:
+## 💡 Habilidades
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Lógica de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+- [Nome do Projeto](link) — Pequena descrição do que ele faz
+- [Outro Projeto](link) — Pequena descrição também
+
+## 📫 Contato
+- Email: gustavo.pc.gus@gmail.com  
+- LinkedIn: [gustavo-pereira-carvalho](https://www.linkedin.com/in/gustavo-pereira-carvalho-a134a1312/)
+
