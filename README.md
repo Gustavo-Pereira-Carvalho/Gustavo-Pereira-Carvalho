@@ -18,7 +18,7 @@ Atualmente, estou montando meu portfólio com projetos pessoais, desafios e estu
 
 ## 💻 Tecnologias que estudo
 
-- HTML, CSS e JavaScript
+- HTML, CSS, JavaScript, ts, java e mongodb
 - Git e GitHub
 - Lógica de programação
 - Desenvolvimento Web Responsivo
